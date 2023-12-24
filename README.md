@@ -1,7 +1,17 @@
 # README
 
-## notebook.ipynb
-Краткое описание
+## dashboard.py
+Интерактивный дэшборд
+```bash
+# create and activate venv (optional)
+pip install -r requirements.txt
+python dashboard.py
+```
+
+## rolan_data/target_audience_analysis.ipynb
+Прототип анализа ЦА, писали Ролан и Даниил
+## Geo_Analytics.ipynb
+Прототип анализа 2гис. Писал Вова
 
 ## data
 ### filename
