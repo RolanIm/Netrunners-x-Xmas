@@ -1,14 +1,21 @@
 # README
+## geo.py
 
-## dashboard.py
-Интерактивный дэшборд
+
+## prototypes
+### app.py
+http://194.163.137.219:8051/
+### dashboard.py
+Интерактивный дэшборд v0
+Кластеризует покупателей по городу/покупкам в двух категориях. Кол-во кластеров настраивается. 
+Запущено на http://194.163.137.219:8052/
 ```bash
 # create and activate venv (optional)
 pip install -r requirements.txt
 python dashboard.py
 ```
 
-## rolan_data/target_audience_analysis.ipynb
+### rolan_data/target_audience_analysis.ipynb
 Прототип анализа ЦА, писали Ролан и Даниил
 ## Geo_Analytics.ipynb
 Прототип анализа 2гис. Писал Вова
