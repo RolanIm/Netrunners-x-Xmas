@@ -1,10 +1,23 @@
 # README
-## geo.py
 
+## geo_filter_tab.py
+Запущено на http://194.163.137.219:8050/
+Показывает фильтрацию данных из 2гис и отображает на карте
+```bash
+# create and activate venv (optional)
+pip install -r requirements.txt
+python geo_filter_tab.py
+```
 
 ## prototypes
-### app.py
+### data_tab.py
 http://194.163.137.219:8051/
+Показывает интерактивную таблицу о ЦА
+```bash
+# create and activate venv (optional)
+pip install -r requirements.txt
+python data_tab.py
+```
 ### dashboard.py
 Интерактивный дэшборд v0
 Кластеризует покупателей по городу/покупкам в двух категориях. Кол-во кластеров настраивается. 
