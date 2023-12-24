@@ -8,6 +8,7 @@
 df.info() for the file
 
 ### data/Приложение_4_Реестр_по_оборотам_для_кейса.xlsx
+```
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 65445 entries, 0 to 65444
 Data columns (total 30 columns):
@@ -45,3 +46,4 @@ Data columns (total 30 columns):
  29  Ювелирные изделия         65445 non-null  object
 dtypes: int64(1), object(29)
 memory usage: 15.0+ MB
+```
