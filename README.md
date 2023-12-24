@@ -57,3 +57,5 @@ Data columns (total 30 columns):
 dtypes: int64(1), object(29)
 memory usage: 15.0+ MB
 ```
+## Exploratory analysis
+![image](https://github.com/lugozash/Netrunners-x-Xmas/assets/146370303/fe775cb2-8057-4d18-935e-0edfb2d5daec)
